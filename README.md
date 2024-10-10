@@ -114,9 +114,13 @@ if(NUM_LOOPS>=10)    {
 }
 ```
 ## OUTPUT
-$ ./sem.o 
+```
+$ ./sem.o
+``` 
 ![image](https://github.com/user-attachments/assets/c4cfa6dc-c841-4fa6-9237-f5e219fa56ec)
+```
 $ ipcs
+```
 ![image](https://github.com/user-attachments/assets/74a9b410-c5c8-4a15-b8da-9544a75624fa)
 
 
